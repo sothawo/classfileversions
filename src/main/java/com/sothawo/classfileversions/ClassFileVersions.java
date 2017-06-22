@@ -48,10 +48,11 @@ public class ClassFileVersions {
         javaVersions.put(46, "1.2");
         javaVersions.put(47, "1.3");
         javaVersions.put(48, "1.4");
-        javaVersions.put(49, "1.5");
-        javaVersions.put(50, "1.6");
-        javaVersions.put(51, "1.7");
-        javaVersions.put(52, "1.8");
+        javaVersions.put(49, "5");
+        javaVersions.put(50, "6");
+        javaVersions.put(51, "7");
+        javaVersions.put(52, "8");
+        javaVersions.put(53, "9");
     }
 
 // -------------------------- ENUMERATIONS --------------------------
@@ -73,7 +74,7 @@ public class ClassFileVersions {
     }
 
     /**
-     * converst a major version to the normal version string
+     * converts a major version to the normal version string
      * @param version the major version
      * @return String
      */
