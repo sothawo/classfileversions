@@ -53,6 +53,8 @@ public class ClassFileVersions {
         javaVersions.put(51, "7");
         javaVersions.put(52, "8");
         javaVersions.put(53, "9");
+        javaVersions.put(54, "10");
+        javaVersions.put(55, "11");
     }
 
 // -------------------------- ENUMERATIONS --------------------------
