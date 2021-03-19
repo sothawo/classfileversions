@@ -1,5 +1,5 @@
 /*
- Copyright 2015 Peter-Josef Meisch (pj.meisch@sothawo.com)
+ Copyright 2015-2021 Peter-Josef Meisch (pj.meisch@sothawo.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -55,6 +55,12 @@ public class ClassFileVersions {
         javaVersions.put(53, "9");
         javaVersions.put(54, "10");
         javaVersions.put(55, "11");
+        javaVersions.put(56, "12");
+        javaVersions.put(57, "13");
+        javaVersions.put(58, "14");
+        javaVersions.put(59, "15");
+        javaVersions.put(60, "16");
+        javaVersions.put(61, "17");
     }
 
 // -------------------------- ENUMERATIONS --------------------------

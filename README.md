@@ -4,7 +4,7 @@ a small programm to list the classfile versions of classes contained in jar arch
 
 ## license
 
- Copyright 2015-2018 Peter-Josef Meisch (pj.meisch@sothawo.com)
+ Copyright 2015-2021 Peter-Josef Meisch (pj.meisch@sothawo.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -36,7 +36,7 @@ a.b.c. is the version of this program.
 
 The options are the names of the jar files to analyse with eventually mixed in sort flags. The output can be sorted
 in two ways: by full qualified class name or by class file version number. Default ordering is by class name. The
-order can be switched by uisng -v or -n flags. Options like this:
+order can be switched by using -v or -n flags. Options like this:
 
 -v archive1.jar archive2.jar -n archive3.jar -v archive4.jar
 
